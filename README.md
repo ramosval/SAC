@@ -2,5 +2,5 @@
 Notes about SAP Analitycs Cloud
 
 # Introduction
-**[intro](/intro/README.md)**	
+**[intro](/SAC/intro/README.md)**	
 
