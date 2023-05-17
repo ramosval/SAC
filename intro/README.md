@@ -32,3 +32,11 @@ a higher skill level to create those.
 The scripting language is JavaScript. Scripts are executed by the web browser JavaScript engine, 
 which is available out of the box. To offer good tool support for analytic application developers, 
 we add a type system on top. This is used for the tooling and for validating scripts.
+
+# Getting Started with SAP Analytics Cloud
+https://community.sap.com/topics/cloud-analytics/getting-started
+
+# Analytical Data Modeling & Live Data Connection to SAP Analytics Cloud
+https://help.sap.com/docs/btp/sap-business-technology-platform/analytical-data-modeling-live-data-connection-to-sap-analytics-cloud
+
+
