@@ -15,6 +15,20 @@ It is the entire process of creating an analytic application, which includes:
 - Laying out the screen
 - Configuring widgets
 - Wiring it all up with the help of custom scripts
+
 Therefore, analytics designer is another way to create analytical content in SAP Analytics Cloud
 
+# What Can You Do with Analytic Applications That You Can’t Do with Stories?
 
+A **story** is created in a self-service workflow and can be made up of various widgets and a lot of 
+configured functionality. However, the amount of customization is limited to the foreseen 
+possibilities offered in the story design time environment.
+
+An **analytic application** typically contains some custom logic, expressed with the help of scripts. 
+With analytic applications there is much more flexibility to implement custom behavior. It requires 
+a higher skill level to create those.
+
+#  What’s the Scripting Language for Analytic Applications?
+The scripting language is JavaScript. Scripts are executed by the web browser JavaScript engine, 
+which is available out of the box. To offer good tool support for analytic application developers, 
+we add a type system on top. This is used for the tooling and for validating scripts.
